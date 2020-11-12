@@ -1,2 +1,2 @@
 # odin-book
-Nodejs app using express, mogoDB and passport
+Nodejs app using express, mongoDB and passport
