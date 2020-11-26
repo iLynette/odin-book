@@ -1,5 +1,5 @@
 body {
-  background: grey;
+  background: white;
 }
 .login-container {
   width: 400px;
@@ -8,4 +8,14 @@ body {
 }
 p {
   margin: 10px 0 !important;
+}
+.fa-small {
+  font-size: 15px !important;
+}
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+.img-small {
+  width: 150px;
 }
